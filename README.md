@@ -1,2 +1,1 @@
-# projectAIle-architecture
-ProjectAIle Folder Structure
+# Documentation Of The Project, The Main File, Rest Of The Documentation Should Be In The docs Folder
